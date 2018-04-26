@@ -1,0 +1,37 @@
+Steps to run project
+==============================================
+
+Expand Maven IMDBProject
+
+Expand src/test/java package
+
+Expand com.qa.imdb.runTest sub-package
+
+You will find RunTest.java file
+
+Select RunTest.java file
+
+Right click on file
+
+Go to "Run as"
+
+Select TestNG Test
+
+Project will run on chrome and display the output on console. For the project to run on Firefox, its version should be 51.0.1
+
+After the tests are completed, refresh the project and open automation.out file containing logs.
+
+================================================
+
+Solution:
+
+I have written four test scripts
+
+storeMovieTitlesInArrayList() - This method stores movie titles in an ArrayList object named movieTitleList.
+
+storeMovieRatingsInArrayList() - This method stores movie ratings in an ArrayList object named movieRatingsList.
+
+storeMovieYearsInArrayList() - This method stores movie release years in an ArrayList object named movieYearsList
+
+After fetching data from website and storing into separate arrayLists, data containing arrays are stored into SQLite table
+and at the same time output is displayed on the console.

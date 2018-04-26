@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="199210" started-at="2018-04-26T03:05:58Z" finished-at="2018-04-26T03:09:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="199210" started-at="2018-04-26T03:05:58Z" finished-at="2018-04-26T03:09:18Z">
+      <class name="com.qa.imdb.runTest.RunTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="setUp" is-config="true" duration-ms="22196" started-at="2018-04-26T03:05:58Z" finished-at="2018-04-26T03:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="storeMovieTitlesInArrayList()[pri:1, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="storeMovieTitlesInArrayList" duration-ms="16554" started-at="2018-04-26T03:06:21Z" finished-at="2018-04-26T03:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeMovieTitlesInArrayList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="tearDown" is-config="true" duration-ms="1796" started-at="2018-04-26T03:06:37Z" finished-at="2018-04-26T03:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="setUp" is-config="true" duration-ms="21883" started-at="2018-04-26T03:06:39Z" finished-at="2018-04-26T03:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="storeMovieRatingsInArrayList()[pri:2, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="storeMovieRatingsInArrayList" duration-ms="16539" started-at="2018-04-26T03:07:01Z" finished-at="2018-04-26T03:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeMovieRatingsInArrayList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="tearDown" is-config="true" duration-ms="1053" started-at="2018-04-26T03:07:17Z" finished-at="2018-04-26T03:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="setUp" is-config="true" duration-ms="21796" started-at="2018-04-26T03:07:18Z" finished-at="2018-04-26T03:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="storeMovieYearsInArrayList()[pri:3, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="storeMovieYearsInArrayList" duration-ms="16263" started-at="2018-04-26T03:07:40Z" finished-at="2018-04-26T03:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeMovieYearsInArrayList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="tearDown" is-config="true" duration-ms="1116" started-at="2018-04-26T03:07:57Z" finished-at="2018-04-26T03:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="setUp" is-config="true" duration-ms="21825" started-at="2018-04-26T03:07:58Z" finished-at="2018-04-26T03:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fetchImdbDataFromTable()[pri:4, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="fetchImdbDataFromTable" duration-ms="57104" started-at="2018-04-26T03:08:19Z" finished-at="2018-04-26T03:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchImdbDataFromTable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.imdb.runTest.RunTest@1723e30]" name="tearDown" is-config="true" duration-ms="1006" started-at="2018-04-26T03:09:17Z" finished-at="2018-04-26T03:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.imdb.runTest.RunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
